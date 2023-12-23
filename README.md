@@ -18,9 +18,9 @@ TestFlow Analysis Dashboard is a comprehensive tool designed for monitoring and 
 
 ## Screenshots
 <!-- ss1 from frontend -->
-<img src="./frontend/ss1.png" width="330" height="202" />
+<img src="./frontend/ss1.png" width="400"  />
 <!-- ss2 from frontend -->
-<img src="./frontend/ss2.png" width="330" />
+<img src="./frontend/ss2.png" width="400" />
 
 
 ## Copyright
