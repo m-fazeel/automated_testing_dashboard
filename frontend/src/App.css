@@ -1,0 +1,10 @@
+body {
+    /* Linear gradient background */
+    /* background: linear-gradient(to right, #253035, #203a43, #355665); */
+  }
+
+  .hr-aesthetic {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, #bbb, transparent);
+}
